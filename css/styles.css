@@ -31,7 +31,7 @@ p{
 
 #title{
   background-color:#ff4c68;
-  color: white;
+  color: rgb(255, 255, 255);
  }
 
  /* navigation bar */
@@ -88,3 +88,24 @@ p{
   text-align: center;
   padding: 5%;
 }
+
+
+/* Testimonials section */
+ #testimonials {
+   padding: 7% 15%;
+   text-align: center;
+   background-color: #ef8172;
+   color: #fff;
+ }
+
+ .testimonial-image {
+   width: 10%;
+   border-radius: 100%;
+   margin: 20px;
+ }
+
+ #press {
+   background-color: #ef8172;
+   text-align: center;
+   padding-bottom: 3%;
+ }
